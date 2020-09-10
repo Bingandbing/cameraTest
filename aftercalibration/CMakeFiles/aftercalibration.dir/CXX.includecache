@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bing/opencv/opencvPrograms/aftercalibration/aftercalibration.cpp
+opencv2/opencv.hpp
+/home/bing/opencv/opencvPrograms/aftercalibration/opencv2/opencv.hpp
+iostream
+-
+
